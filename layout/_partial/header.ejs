@@ -73,7 +73,6 @@
                     <nav>
                         <ul class="nav">
                             <li><a href="/" class="animsition-link"><%- config.title %></a></li>
-                            <li class="nolink"><span>Always </span>Creative.</li>
                             <% if(theme.github){ %>
                             <li><a href="<%- theme.github %>" title="Github" target="_blank"><i class="icon-github"></i></a></li>
                             <% } %>
@@ -89,7 +88,11 @@
                             <% if(theme.weibo){ %>
                             <li><a href="<%- theme.weibo %>" title="Sina-Weibo" target="_blank"><i class="icon-sina-weibo"></i></a></li>
                             <% } %>
-                            <li class="nolink"><span>Welcome!</span></li>
+                            <% if(theme.email){ %>
+                            <li><a href="mailto:<%- theme.email %>" title="<%- theme.email %>"><i class="icon-email"></i></a></li>
+                            <% } %>
+                            <li><a href="/about.html" title="About Me" class="nolink"><span>About Me</span></a></li>
+                            <!-- <li class="nolink"><span>Welcome!</span></li> -->
                         </ul>
                     </nav>
                     <!--// Info-bar -->

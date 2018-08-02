@@ -1,0 +1,233 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ha406b');
+  src:  url('fonts/icomoon.eot?ha406b#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ha406b') format('truetype'),
+    url('fonts/icomoon.woff?ha406b') format('woff'),
+    url('fonts/icomoon.svg?ha406b#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qrcode:before {
+  content: "\f029";
+}
+.icon-barcode:before {
+  content: "\f02a";
+}
+.icon-tags:before {
+  content: "\f02c";
+}
+.icon-eye:before {
+  content: "\f06e";
+}
+.icon-eye-slash:before {
+  content: "\f070";
+}
+.icon-twitter:before {
+  content: "\f081";
+}
+.icon-facebook:before {
+  content: "\f082";
+}
+.icon-linkedin:before {
+  content: "\f08c";
+}
+.icon-google-plus:before {
+  content: "\f0d5";
+}
+.icon-linkedin:before {
+  content: "\f0e1";
+}
+.icon-slack:before {
+  content: "\f198";
+}
+.icon-github:before {
+  content: "\f1d3";
+}
+.icon-qq:before {
+  content: "\f1d6";
+}
+.icon-wechat:before {
+  content: "\f1d7";
+}
+.icon-weixin:before {
+  content: "\f1d7";
+}
+.icon-cc-visa:before {
+  content: "\f1f0";
+}
+.icon-cc-mastercard:before {
+  content: "\f1f1";
+}
+.icon-cc-discover:before {
+  content: "\f1f2";
+}
+.icon-cc-amex:before {
+  content: "\f1f3";
+}
+.icon-cc-paypal:before {
+  content: "\f1f4";
+}
+.icon-trademark:before {
+  content: "\f25c";
+}
+.icon-registered:before {
+  content: "\f25d";
+}
+.icon-safari:before {
+  content: "\f267";
+}
+.icon-chrome:before {
+  content: "\f268";
+}
+.icon-firefox:before {
+  content: "\f269";
+}
+.icon-opera:before {
+  content: "\f26a";
+}
+.icon-internet-explorer:before {
+  content: "\f26b";
+}
+.icon-creative-commons-attribution:before {
+  content: "\e900";
+}
+.icon-creative-commons-noderivs:before {
+  content: "\e901";
+}
+.icon-creative-commons-noncommercial-eu:before {
+  content: "\e902";
+}
+.icon-creative-commons-noncommercial-us:before {
+  content: "\e903";
+}
+.icon-creative-commons-public-domain:before {
+  content: "\e904";
+}
+.icon-creative-commons-remix:before {
+  content: "\e905";
+}
+.icon-creative-commons-share:before {
+  content: "\e906";
+}
+.icon-creative-commons-sharealike:before {
+  content: "\e907";
+}
+.icon-creative-commons:before {
+  content: "\e908";
+}
+.icon-beamed-note:before {
+  content: "\e909";
+}
+.icon-email:before {
+  content: "\e90a";
+}
+.icon-emoji-happy:before {
+  content: "\e90b";
+}
+.icon-gauge:before {
+  content: "\e90c";
+}
+.icon-globe:before {
+  content: "\e90d";
+}
+.icon-graduation-cap:before {
+  content: "\e90e";
+}
+.icon-home:before {
+  content: "\e90f";
+}
+.icon-hour-glass:before {
+  content: "\e910";
+}
+.icon-info-with-circle:before {
+  content: "\e911";
+}
+.icon-info:before {
+  content: "\e912";
+}
+.icon-laptop:before {
+  content: "\e913";
+}
+.icon-lock:before {
+  content: "\e914";
+}
+.icon-magnifying-glass:before {
+  content: "\e915";
+}
+.icon-mail:before {
+  content: "\e916";
+}
+.icon-moon:before {
+  content: "\e917";
+}
+.icon-plus:before {
+  content: "\e918";
+}
+.icon-rss:before {
+  content: "\e919";
+}
+.icon-signal:before {
+  content: "\e91a";
+}
+.icon-star-outlined:before {
+  content: "\e91b";
+}
+.icon-qq2:before {
+  content: "\e91c";
+}
+.icon-renren:before {
+  content: "\e91d";
+}
+.icon-sina-weibo:before {
+  content: "\e91e";
+}
+.icon-instagram:before {
+  content: "\e91f";
+}
+.icon-tux:before {
+  content: "\ef1c";
+}
+.icon-appleinc:before {
+  content: "\ef1d";
+}
+.icon-android:before {
+  content: "\ef1f";
+}
+.icon-stackoverflow:before {
+  content: "\ef2f";
+}
+.icon-edge:before {
+  content: "\ef3b";
+}
+.icon-file-pdf:before {
+  content: "\ef3e";
+}
+.icon-file-openoffice:before {
+  content: "\ef3f";
+}
+.icon-file-word:before {
+  content: "\ef40";
+}
+.icon-file-excel:before {
+  content: "\ef41";
+}
+.icon-libreoffice:before {
+  content: "\ef42";
+}

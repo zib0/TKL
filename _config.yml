@@ -1,10 +1,10 @@
 # config
-cover: /img/bg_img.jpg
+cover: /img/bg.jpg
 logo: /img/logo.png
 top_saying:
-- title: YOU'VE MADE A <span>BRAVE</span> DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
+- title: Learning to <b>Live</b>. Learning to <b>Love</b>. Learning to <b>Code</b>. 
+- content: 期待爱, 期待下一场旅行。
+bottom_saying: Life is a long long journey.
 # Content
 excerpt_link: Read More
 
@@ -29,11 +29,12 @@ disqus_shortname:
 fancybox: true
 
 # Miscellaneous
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google: https://google.com/
-weibo: http://weibo.com/
+github: https://github.com/zib0
+# twitter: https://twitter.com/
+facebook: https://www.facebook.com/x.zibo.wang
+# google: https://google.com/
+# weibo: http://weibo.com/
+email: mail@zibow.me
 
 #about  timeline
 timeline:
@@ -56,7 +57,7 @@ links:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
