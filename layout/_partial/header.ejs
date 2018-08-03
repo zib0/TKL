@@ -91,6 +91,9 @@
                             <% if(theme.email){ %>
                             <li><a href="mailto:<%- theme.email %>" title="<%- theme.email %>"><i class="icon-email"></i></a></li>
                             <% } %>
+                            <% if(theme.rss){ %>
+                            <li><a href="/atom.xml" title="Subscribe Me"><i class="icon-feed"></i></a></li>
+                            <% } %>
                             <li><a href="/about.html" title="About Me" class="nolink"><span>About Me</span></a></li>
                             <!-- <li class="nolink"><span>Welcome!</span></li> -->
                         </ul>
